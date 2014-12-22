@@ -35,10 +35,7 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-THE TRAGICALL HIStorye
-of Romeus and Iuliet, written
-firſt in Italian by Bandell,
-and nowe in Engliſ
+
 1. To the Reader.
 
 1. The Argument.
